@@ -1,0 +1,2 @@
+# mini_project_covid_mask
+mask_traffic_light 마스크신호등
